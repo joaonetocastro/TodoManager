@@ -1,0 +1,4 @@
+api/node_modules
+api/vendor
+web/node_modules
+web/yarn.lock
